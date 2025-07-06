@@ -7,9 +7,9 @@ export default function AddTodo({ addTodo }) {
     const submit = (e) => {
         e.preventDefault();
         if (!title) {
-            alert("Title cannot me Blank")
+            alert("Title cannot be Blank")
         } else if (!desc) {
-            alert("Description cannot me Blank")
+            alert("Description cannot be Blank")
         }
         else {
             addTodo(title, desc);
