@@ -32,6 +32,27 @@ A clean and responsive Todo List application built using **React.js**, featuring
 
 ---
 
+### 🔗 Live Demo
+
+https://todo-app-vr3d.vercel.app
+
+---
+
+## 🧑‍💻 Developed By
+
+**Mayank Kumar Sahu**
+*With ❤️ using React.js*
+
+Feel free to give a ⭐ if you like this project!
+
+---
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+---
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -53,23 +74,3 @@ npm install
 # Run the development server
 npm start
 
----
-
-## 🔗 Live Demo
-
-[Click Here to View the App](https://your-deployment-link.com)
-
----
-
-## 🧑‍💻 Developed By
-
-**Mayank Kumar Sahu**
-*With ❤️ using React.js*
-
-Feel free to give a ⭐ if you like this project!
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
